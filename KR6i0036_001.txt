@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:08:19.838921
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:30
 #+TITLE: 佛說彌勒來時經
 #+PROPERTY: CBETA_ID T14n0457
 #+PROPERTY: ID KR6i0036
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 457
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0036_T_000-0434b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0036_T_001-0434b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.457¶
-
- 佛說彌勒來時經¶
+No. 457¶
+佛說彌勒來時經¶
 ¶
 失譯人名附東晉錄¶
 
